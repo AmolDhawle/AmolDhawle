@@ -6,8 +6,6 @@ About Me ℹ️
 🌱 I'm constantly learning and experimenting with new technologies to expand my skill set.
 🚀 I'm driven by the desire to create innovative and impactful solutions that make a difference.
 🎓 I hold a Master in Computer Application Degree from Mumbai University.
-My Projects 🛠️
-Here are a few highlights of my recent projects:
 
 Get in Touch 📫
 Connect with me on LinkedIn. https://www.linkedin.com/in/amol-dhawle-13b645150/
