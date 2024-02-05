@@ -1,7 +1,7 @@
-Hi there, I'm Amol Dhawle! 👋
+Hi there, I'm [Amol Dhawle]! 👋
 I'm a passionate MERN stack developer with a keen eye for building scalable and efficient web applications. Welcome to my GitHub profile!
 
-About Me ℹ️
+## About Me ℹ️
 
 💻 I specialize in MongoDB, Express.js, React.js, and Node.js (MERN stack). 
 🌱 I'm constantly learning and experimenting with new technologies to expand my skill set. 
@@ -9,7 +9,7 @@ About Me ℹ️
 🎓 I hold a Master in Computer Application Degree from Mumbai University. 
 📝 Check out my Portfolio for more information about my projects and experience. 
 
-Get in Touch 📫
+## Get in Touch 📫
 
 📫 Reach me at amoldhawle2@gmail.com. 
 Connect with me on LinkedIn. https://www.linkedin.com/in/amol-dhawle-13b645150/. 
