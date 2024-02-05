@@ -1,4 +1,4 @@
-Hi there, I'm [Amol Dhawle]! 👋
+Hi there, I'm Amol Dhawle! 👋
 I'm a passionate MERN stack developer with a keen eye for building scalable and efficient web applications. Welcome to my GitHub profile!
 
 ## About Me ℹ️
